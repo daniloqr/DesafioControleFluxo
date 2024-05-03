@@ -26,7 +26,6 @@ public class contador {
         if (numero1 > numero2) {
             throw new ParametrosInvalidosException();
         }
-        System.out.println("Os números são válidos.");
 
     }
 
